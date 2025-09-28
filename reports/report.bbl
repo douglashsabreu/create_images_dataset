@@ -1,0 +1,43 @@
+\begin{thebibliography}{7}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Blauert(1997)]{blauert1997spatial}
+Jens Blauert.
+\newblock \emph{Spatial hearing: The psychophysics of human sound localization}.
+\newblock MIT press, 1997.
+
+\bibitem[Breebaart et~al.(2001)Breebaart, van~de Par, and Kohlrausch]{breebaart2001binaural}
+Jeroen Breebaart, Steven van~de Par, and Armin Kohlrausch.
+\newblock Binaural signal processing: Toward functional models of the auditory periphery.
+\newblock \emph{The Journal of the Acoustical Society of America}, 110\penalty0 (5):\penalty0 2421--2438, 2001.
+
+\bibitem[Griffin and Lim(1984)]{griffin1984signal}
+Daniel Griffin and Jae Lim.
+\newblock Signal estimation from modified short-time fourier transform.
+\newblock \emph{IEEE Transactions on Acoustics, Speech, and Signal Processing}, 32\penalty0 (2):\penalty0 236--243, 1984.
+
+\bibitem[{International Telecommunication Union}(2015)]{itu2015bs1770}
+{International Telecommunication Union}.
+\newblock {Algorithms to measure audio programme loudness and true-peak audio level}.
+\newblock Recommendation bs.1770-4, ITU-R, Geneva, Switzerland, 2015.
+
+\bibitem[Jehan(2005)]{jehan2005creating}
+Tristan Jehan.
+\newblock Creating music by listening.
+\newblock In \emph{Doctoral dissertation, Massachusetts Institute of Technology}, 2005.
+
+\bibitem[Knapp and Carter(1976)]{knapp1976generalized}
+Charles~H Knapp and G~Clifford Carter.
+\newblock The generalized correlation method for estimation of time delay.
+\newblock \emph{IEEE transactions on acoustics, speech, and signal processing}, 24\penalty0 (4):\penalty0 320--327, 1976.
+
+\bibitem[Wang et~al.(2017)Wang, Getreuer, Hughes, Lyon, and Saurous]{wang2017per}
+Yuxuan Wang, Pascal Getreuer, Thad Hughes, Richard~F Lyon, and Rif~A Saurous.
+\newblock Per-channel energy normalization: Why and how.
+\newblock In \emph{2017 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)}, pages 596--600. IEEE, 2017.
+
+\end{thebibliography}
