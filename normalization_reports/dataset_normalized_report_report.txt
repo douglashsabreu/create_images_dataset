@@ -1,0 +1,70 @@
+AUDIO NORMALIZATION ANALYSIS REPORT
+==================================================
+
+Dataset Path: /Users/douglas.abreu/Work/PhD_douglas/create_images_dataset/dataset_normalized
+Analysis Date: 2025-09-28T09:25:43.288687
+Target Level: -23.0 dB
+Total Files: 10935
+Total Duration: 30.38 hours
+
+OVERALL DATASET STATISTICS
+------------------------------
+Original RMS Level: -24.60 ± 8.36 dB
+Original Peak Level: -3.73 ± 9.68 dB
+Original LUFS: -35.50 ± 5.66
+
+NORMALIZATION METHOD EFFECTIVENESS
+-----------------------------------
+RMS         : 0.12
+Peak        : 0.12
+LUFS        : 0.17
+Dynamic     : 0.12
+
+Best Method: LUFS
+
+CLASS-WISE STATISTICS
+-------------------------
+
+Class: 510
+  Files: 1873
+  Duration: 5.20 hours
+  Original RMS: -23.91 ± 2.15 dB
+  Original Peak: -3.09 ± 2.57 dB
+  Original LUFS: -35.07 ± 4.01
+  RMS Normalization Consistency: 2.15 dB
+  Peak Normalization Consistency: 0.00 dB
+  LUFS Normalization Consistency: 3.89
+  Dynamic Normalization Consistency: 2.17 dB
+
+Class: 100
+  Files: 2366
+  Duration: 6.57 hours
+  Original RMS: -25.56 ± 12.34 dB
+  Original Peak: -3.48 ± 14.33 dB
+  Original LUFS: -35.13 ± 5.88
+  RMS Normalization Consistency: 12.34 dB
+  Peak Normalization Consistency: 12.23 dB
+  LUFS Normalization Consistency: 5.94
+  Dynamic Normalization Consistency: 12.33 dB
+
+Class: 200
+  Files: 2368
+  Duration: 6.58 hours
+  Original RMS: -25.84 ± 12.37 dB
+  Original Peak: -3.43 ± 14.33 dB
+  Original LUFS: -36.60 ± 5.79
+  RMS Normalization Consistency: 12.37 dB
+  Peak Normalization Consistency: 12.23 dB
+  LUFS Normalization Consistency: 5.83
+  Dynamic Normalization Consistency: 12.36 dB
+
+Class: 514
+  Files: 4328
+  Duration: 12.02 hours
+  Original RMS: -23.69 ± 2.25 dB
+  Original Peak: -4.30 ± 2.94 dB
+  Original LUFS: -35.29 ± 6.00
+  RMS Normalization Consistency: 2.25 dB
+  Peak Normalization Consistency: 0.00 dB
+  LUFS Normalization Consistency: 6.44
+  Dynamic Normalization Consistency: 2.28 dB
