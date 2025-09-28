@@ -1,0 +1,20 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Temporary files
+.temp/
+
+# Virtual environments
+.venv
+.venv/
+dataset/
+dataset_cutted/
+dataset_normalized/
+spatial_images_dataset/
+temp/
+*.h5
